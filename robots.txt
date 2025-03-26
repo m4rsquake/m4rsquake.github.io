@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m4rsquake.github.io/sitemap.xml

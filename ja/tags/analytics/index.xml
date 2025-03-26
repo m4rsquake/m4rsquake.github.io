@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Analytics on Blowfish</title><link>https://m4rsquake.github.io/ja/tags/analytics/</link><description>Recent content in Analytics on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><copyright>© 2025 Blowfish</copyright><atom:link href="https://m4rsquake.github.io/ja/tags/analytics/index.xml" rel="self" type="application/rss+xml"/><item><title>パーシャル</title><link>https://m4rsquake.github.io/ja/docs/partials/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://m4rsquake.github.io/ja/docs/partials/</guid><description>&lt;h2 class="relative group">アナリティクス
+&lt;div id="%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#%E3%82%A2%E3%83%8A%E3%83%AA%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9" aria-label="アンカー">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Blowfish は、Fathom Analytics、Google アナリティクス、Umami Analytics のビルトインサポートを提供しています。Fathom は、ユーザーのプライバシーを尊重する Google アナリティクスの有料の代替手段です。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://m4rsquake.github.io/docs/partials/featured.svg"/></item></channel></rss>
