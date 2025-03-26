@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on Blowfish</title><link>https://m4rsquake.github.io/ja/tags/authors/</link><description>Recent content in Authors on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>ja</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><copyright>© 2025 Blowfish</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m4rsquake.github.io/ja/tags/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>複数の著者</title><link>https://m4rsquake.github.io/ja/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://m4rsquake.github.io/ja/docs/multi-author/</guid><description>&lt;p>一部のウェブサイトでは、複数の著者がコンテンツを提供しているため、ウェブサイト全体で単一のデフォルト著者以上のものが必要になります。このようなユースケースのために、Blowfish では、複数著者機能を使用して著者リストを拡張できます。&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://m4rsquake.github.io/docs/multi-author/featured.svg"/></item><item><title>複数の著者</title><link>https://m4rsquake.github.io/ja/samples/multiple-authors/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://m4rsquake.github.io/ja/samples/multiple-authors/</guid><description>複数の著者の利用方法の簡単な例。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Blowfish</title>
+    <link>https://m4rsquake.github.io/ja/tags/authors/</link>
+    <description>Recent content in Authors on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2025 Blowfish</copyright>
+    <atom:link href="https://m4rsquake.github.io/ja/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>複数の著者</title>
+      <link>https://m4rsquake.github.io/ja/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://m4rsquake.github.io/ja/docs/multi-author/</guid>
+      <description>&lt;p&gt;一部のウェブサイトでは、複数の著者がコンテンツを提供しているため、ウェブサイト全体で単一のデフォルト著者以上のものが必要になります。このようなユースケースのために、Blowfish では、複数著者機能を使用して著者リストを拡張できます。&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://m4rsquake.github.io/docs/multi-author/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

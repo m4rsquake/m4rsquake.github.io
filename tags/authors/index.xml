@@ -1,1 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Authors on msg | a hub for all</title><link>https://m4rsquake.github.io/tags/authors/</link><description>Recent content in Authors on msg | a hub for all</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>m4rsquake@outlook.com (msg)</managingEditor><webMaster>m4rsquake@outlook.com (msg)</webMaster><copyright>© 2025 msg</copyright><lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://m4rsquake.github.io/tags/authors/index.xml" rel="self" type="application/rss+xml"/><item><title>Multiple Authors</title><link>https://m4rsquake.github.io/docs/multi-author/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (msg)</author><guid>https://m4rsquake.github.io/docs/multi-author/</guid><description>&lt;p>Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://m4rsquake.github.io/docs/multi-author/featured.svg"/></item><item><title>Multiple Authors</title><link>https://m4rsquake.github.io/samples/multiple-authors/</link><pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate><author>m4rsquake@outlook.com (msg)</author><guid>https://m4rsquake.github.io/samples/multiple-authors/</guid><description>A quick example of how multiple authors could be used.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on msg | a hub for all</title>
+    <link>https://m4rsquake.github.io/tags/authors/</link>
+    <description>Recent content in Authors on msg | a hub for all</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>m4rsquake@outlook.com (msg)</managingEditor>
+    <webMaster>m4rsquake@outlook.com (msg)</webMaster>
+    <copyright>© 2025 msg</copyright>
+    <atom:link href="https://m4rsquake.github.io/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Multiple Authors</title>
+      <link>https://m4rsquake.github.io/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>m4rsquake@outlook.com (msg)</author>
+      <guid>https://m4rsquake.github.io/docs/multi-author/</guid>
+      <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://m4rsquake.github.io/docs/multi-author/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
