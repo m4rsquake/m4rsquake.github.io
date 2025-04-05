@@ -2,4 +2,7 @@
 &lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
 &lt;/h3>
 &lt;p>虽然树莓派4B的性能相对较强，但其网络接口的性能却并不算优秀，可作为百兆无线路由器。
-使用 docker 部署 openWrt，可以在树莓派作为路由器的同时，部署其他服务。注意：该方案折腾大于使用，使用 docker 多合一可能会导致无线软路由不稳定。&lt;/p></description></item></channel></rss>
+使用 docker 部署 openWrt，可以在树莓派作为路由器的同时，部署其他服务。注意：该方案折腾大于使用，使用 docker 多合一可能会导致无线软路由不稳定。&lt;/p></description></item><item><title>Windows 系统上 Qt QProcess setWorkingDirectory 不起作用</title><link>https://m4rsquake.github.io/zh-cn/pages/qt_01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://m4rsquake.github.io/zh-cn/pages/qt_01/</guid><description>&lt;h3 class="relative group">前言
+&lt;div id="%E5%89%8D%E8%A8%80" class="anchor">&lt;/div>
+&lt;/h3>
+&lt;p>最近在使用 Qt 编写一个项目时，发现 &lt;code>QProcess&lt;/code> 再设定好工作目录后，仍然找不到文件，启动失败。经过上网查阅与阅读官方文档后，对此有了一个较为清晰的认知。&lt;/p></description></item></channel></rss>
